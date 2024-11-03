@@ -9,11 +9,6 @@ This project is an **eCommerce platform** built to enable **price comparison** u
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Features
